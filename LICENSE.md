@@ -1,3 +1,7 @@
+All content is covered by [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+** License for the theme I use is below **
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
