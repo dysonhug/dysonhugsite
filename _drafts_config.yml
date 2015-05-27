@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            DysonBlog
 tagline:          'Hug Life'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Hug Life'
 url:              http://draft.dysonhug.net
 baseurl:          /
 destination:      ./_draft_site
