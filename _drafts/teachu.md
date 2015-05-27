@@ -12,6 +12,7 @@ But I only had a deck of 52 cards over the weekend and I *really* wanted to show
 # Rule changes
 
 The twos are used in place of the jokers to represent the special cards.
+
 - 2♦ : Mahjong. Equivalent to a '2', instead of a '1'.
 - 2♥ : Dragon.
 - 2♣ : Pheonix.
