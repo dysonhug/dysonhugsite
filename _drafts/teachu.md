@@ -22,7 +22,7 @@ Grand Tichu is called after the first 7 cards are dealt out, not after the 8th.
 
 # Drip feeding the ruleset.
 
-The rull set was introduced over the course of subsequent rounds.
+The rull set was introduced over the course of several rounds of play.
 
 1. **No Tichu or Grand Tichu calls** - in the first round players will barely have any idea what they're trying to achieve, let alone know if they are going to be able to achieve it. **No wish on the Mahjong** - it's a hard tool to use correctly, no point in using in the first round. **No bombs** - they complicate the hand rankings, it's hard enough to get people away from thinking purely in terms of poker hands.
 2. **Introduce Tichu calls** - The player knows a bit about how the game works, they have some idea how they succeeded or failed from the first round, now they're being given a chance to use that knowledge at the beginning of the next round. It also lets the player know that it's about the result of multiple games, not just a single one.
