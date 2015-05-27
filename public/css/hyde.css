@@ -92,6 +92,7 @@ html {
   margin-right: auto;
   background-repeat: no-repeat;
   overflow: hidden;
+  border-color: #fff;
 }
 
 /* Sidebar nav */
